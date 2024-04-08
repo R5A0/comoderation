@@ -1,2 +1,2 @@
 # comoderation
-tos
+no tos yet...
